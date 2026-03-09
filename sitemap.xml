@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cyberspecialist-umang.netlify.app/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://umang-shah01.github.io/digital-forensics-research/</loc>
+    <lastmod>2026-01-20</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://umang-shah01.github.io/Project-Digital-Forensic-Analysis/</loc>
+    <lastmod>2026-01-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://umang-shah01.github.io/Project-SecurePGP/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://umang-shah01.github.io/Project-Social-Engineering-Attack/</loc>
+    <lastmod>2026-01-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://drive.google.com/file/d/1tLHXzjHw78BhGd5qW2prxSzSugUMB_BT/view</loc>
+    <priority>0.5</priority>
+  </url>
+</urlset>
